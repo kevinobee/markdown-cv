@@ -36,7 +36,7 @@ __Uniform__, Software Developer
 
 Assisted Uniform development teams in the US and Australia with feedback around security and architecture of strategically important system APIs.
 
-At the time the teams were busy prototyping a new managed backend with Hasura, Postgres on AWS Aurora using Auth0 services. With the teams support we were quickly able to identify and address those low hanging fruit items like how best to fix-up missing HTTP security headers and understand the software dependency chain.Assisted Uniform development teams in the US and Australia with feedback around security and architecture of strategically important system APIs. At the time the teams were busy prototyping a new managed backend with Hasura, Postgres on AWS Aurora using Auth0 services. With the teams support we were quickly able to identify and address those low hanging fruit items like how best to fix-up missing HTTP security headers and understand the software dependency chain.
+At the time the teams were busy prototyping a new managed backend with Hasura, Postgres on AWS Aurora using Auth0 services. With the teams support we were quickly able to identify and address those low hanging fruit items like how best to fix-up missing HTTP security headers and understand the software dependency chain.
 
 Skills: Application Security · Cloud Applications · Docker · C# · ASP.NET Web API · Cloud Security · DevOps · Amazon Web Services (AWS) · Linux
 
@@ -47,7 +47,7 @@ __CluedIn__, Software Developer
 
 Initially joined with another developer for a limited contract engagement. In three months we were able to deliver C# templates and build automation for CluedIn's crawling and data processing layers.
 
-Joined the development team and for two years helped expand the set of external integrations that CluedIn were able to offer. Significant enhancements were made to the existing .NET Framework applications to support existing product services whilst migrating the system to a containerized NET Core code base.Initially joined with another developer for a limited contract engagement. In three months we were able to deliver C# templates and build automation for CluedIn's crawling and data processing layers. Joined the development team and for two years helped expand the set of external integrations that CluedIn were able to offer. Significant enhancements were made to the existing .NET Framework applications to support existing product services whilst migrating the system to a containerized NET Core code base.
+Joined the development team and for two years helped expand the set of external integrations that CluedIn were able to offer. Significant enhancements were made to the existing .NET Framework applications to support existing product services whilst migrating the system to a containerized NET Core code base.
 
 Skills: ASP.NET Core · Application Security · Docker · C# · ASP.NET Web API · Software Design · DevOps
 
@@ -58,7 +58,7 @@ __huephonic__, Software Developer
 
 Greenfield development of Docker based multimedia enterprise solution delivered within six months.
 
-Inventory management and customer customizations were built using a JavaScript based CMS. Media playback involved developing internal APIs, Lua scripting and bulk storage integrations. Applications are packaged up into Docker containers ready for deployment to a cloud based Kubernetes cluster. Automated workflows and shell scripts manage software releases.Greenfield development of Docker based multimedia enterprise solution delivered within six months. Inventory management and customer customizations were built using a JavaScript based CMS. Media playback involved developing internal APIs, Lua scripting and bulk storage integrations. Applications are packaged up into Docker containers ready for deployment to a cloud based Kubernetes cluster. Automated workflows and shell scripts manage software releases.
+Inventory management and customer customizations were built using a JavaScript based CMS. Media playback involved developing internal APIs, Lua scripting and bulk storage integrations. Applications are packaged into Docker containers for deployment to a cloud based Kubernetes cluster. Automated workflows and shell scripts manage software releases.
 
 Skills: Docker · C# · DevOps · JavaScript · Linux
 
@@ -73,7 +73,7 @@ A notable contribution was made in delivering Sitecore Services Client (SSC) whi
 
 Traveled to Sitecore's Malaysia office to mentor the newly formed Experience Analytics remote team and consult on proposed software architecture designs. Worked with Chief Security Officer to push out security awareness to Sitecore's various development teams.
 
-Developed PowerShell module for performing automated Sitecore security audit and fix functions.Joined Sitecore's Product Department as a backend developer and security advocate. A notable contribution was made in delivering Sitecore Services Client (SSC) which is an ASP.NET Web API integration layer for the Sitecore CMS product and replacement for the insecure Item Web API. Traveled to Sitecore's Malaysia office to mentor the newly formed Experience Analytics remote team and consult on proposed software architecture designs. Worked with Chief Security Officer to push out security awareness to Sitecore's various development teams. Developed PowerShell module for performing automated Sitecore security audit and fix functions.
+Developed PowerShell module for performing automated Sitecore security audit and fix functions.
 
 Skills: Sitecore · Application Security · Docker · C# · ASP.NET Web API · Mentor · DevOps
 
@@ -97,7 +97,7 @@ __Saga__, Software Consultant
 
 Brought into an existing team of developers to act as an agent for change with the intent to deliver process improvement across all areas of the SDLC.
 
-Implemented and deployed multiple e-commerce insurance quote engines of increasing complexity. Helped to introduce automation and continuous delivery processes. Assisted development team to adopt Agile and lean practices. Responsible for mentoring, training and team development activities to grow team capabilities.Brought into an existing team of developers to act as an agent for change with the intent to deliver process improvement across all areas of the SDLC. Implemented and deployed multiple e-commerce insurance quote engines of increasing complexity. Helped to introduce automation and continuous delivery processes. Assisted development team to adopt Agile and lean practices. Responsible for mentoring, training and team development activities to grow team capabilities.
+Implemented and deployed multiple e-commerce insurance quote engines of increasing complexity. Helped to introduce automation and continuous delivery processes. Assisted development team to adopt Agile and lean practices. Responsible for mentoring, training and team development activities to grow team capabilities.
 
 Skills: C# · Software Architecture · Test Driven Development · Mentor · ASP.NET MVC · DevOps · Design Patterns
 
@@ -108,7 +108,7 @@ __Saga Holidays__, Software Consultant
 
 Redesign of Saga Travel website and back office applications on Sitecore CMS platform.
 
-The website achieved the Which Readers Award for the Best Travel Site 2010.Redesign of Saga Travel website and back office applications on Sitecore CMS platform. The website achieved the Which Readers Award for the Best Travel Site 2010.
+The website achieved the Which Readers Award for the Best Travel Site 2010.
 
 Skills: Sitecore · C# · Software Architecture · Mentor · ASP.NET MVC · xUnit · Agile Methodologies · Continuous Integration · Web Services
 
@@ -119,7 +119,7 @@ __Saga__, Software Developer
 
 Brought into a small core team working on an initial release for a motor insurance aggregator web site. Concluded engagement as a Technical lead supporting the expanded team of five developers.
 
-Responsible throughout for the design and implementation of the backend web services and insurance provider integrations. Assisted C-level management with the recruitment of new contract and permanent staff as the project progressed.Brought into a small core team working on an initial release for a motor insurance aggregator web site. Concluded engagement as a Technical lead supporting the expanded team of five developers. Responsible throughout for the design and implementation of the backend web services and insurance provider integrations. Assisted C-level management with the recruitment of new contract and permanent staff as the project progressed.
+Responsible throughout for the design and implementation of the backend web services and insurance provider integrations. Assisted C-level management with the recruitment of new contract and permanent staff as the project progressed.
 
 Skills: C# · Software Design · Mentor · Web Services · .NET Framework
 
@@ -128,7 +128,7 @@ __Xchanging__, Software Developer
 
 · Permanent · 4 months · On-site · Folkestone, United Kingdom
 
-Developing and supporting large scale XML web service based resilient messaging system for the London Insurance sector.Developing and supporting large scale XML web service based resilient messaging system for the London Insurance sector.
+Developing and supporting large scale XML web service based resilient messaging system for the London Insurance sector.
 
 Skills: ASP.NET · Visual Studio · Visual Basic .NET (VB.NET) · Windows Communication Foundation (WCF) · Internet Information Services (IIS)
 
@@ -139,7 +139,7 @@ __Sygnet Interactive Ltd__, Web Developer
 
 Brought in on a short term contract to resource an in-house CMS project for a major German car manufacturer.
 
-Contract extended to help develop a variety of public websites for external customers.Brought in on a short term contract to resource an in-house CMS project for a major German car manufacturer. Contract extended to help develop a variety of public websites for external customers.
+Contract extended to help develop a variety of public websites for external customers.
 
 Skills: ASP.NET · Web Applications · Microsoft SQL Server · Visual Basic .NET (VB.NET) · Internet Information Services (IIS)
 
@@ -148,7 +148,7 @@ __EMS Group__, Software Developer
 
 · Contract · 4 months · Hybrid · Herne Bay, United Kingdom
 
-C# developer contributing on physical security control system for a Banking client. Hardware based on COTS SBC running Windows CE.C# developer contributing on physical security control system for a Banking client. Hardware based on COTS SBC running Windows CE.
+C# developer contributing on physical security control system for a Banking client. Hardware based on COTS SBC running Windows CE.
 
 Skills: Security · C# · Software Design · xUnit · Visual Studio · Embedded Software
 
@@ -157,7 +157,7 @@ __EMS Group__, Development Engineer
 
 · Permanent · 8 months · Hybrid · Herne Bay, United Kingdom
 
-Embedded C++ software development for wireless security and fire systems running on bare metal custom hardware.Embedded C++ software development for wireless security and fire systems running on bare metal custom hardware.
+Embedded C++ software development for wireless security and fire systems running on bare metal custom hardware.
 
 Skills: Software Design · Software Engineering Practices · Embedded Software · C++ · C (Programming Language)
 
@@ -166,7 +166,7 @@ Web Developer
 
 · Self-employed · 1 year · Hybrid · Kent, United Kingdom
 
-Offered bespoke technical support and development services to Local Education Authorities and schools.Offered bespoke technical support and development services to Local Education Authorities and schools.
+Offered bespoke technical support and development services to Local Education Authorities and schools.
 
 Skills: C# · ASP.NET · Web Applications · Microsoft SQL Server · Internet Information Services (IIS)
 
@@ -179,7 +179,7 @@ Member of various teams developing flight control systems for civilian and milit
 
 Security cleared at NATO Classified and NATO Secret levels.
 
-Internal training course tutor / mentor for C / C++Member of various teams developing flight control systems for civilian and military use. Assisted in simulation work for a prototype missile capable of autonomous flight. Security cleared at NATO Classified and NATO Secret levels. Internal training course tutor / mentor for C / C++
+Internal training course tutor / mentor for C / C++
 
 Skills: Software Design · Mentor · Linux · Software Engineering Practices · Embedded Software · C++ · C (Programming Language) · Visual Basic .NET (VB.NET)
 
