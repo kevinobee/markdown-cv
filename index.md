@@ -71,7 +71,7 @@ Joined Sitecore's Product Department as a backend developer and security advocat
 
 A notable contribution was made in delivering Sitecore Services Client (SSC) which is an ASP.NET Web API integration layer for the Sitecore CMS product and replacement for the insecure Item Web API.
 
-Multiple on-site engagements at the Sitecore Malaysia office mentoring the newly formed Experience Analytics team and assisting with software architecture decisions.
+Multiple on-site engagements at Sitecore Malaysia office mentoring the newly formed Experience Analytics team and assisting with software architecture decisions.
 
 Worked with Chief Security Officer to push out security awareness to Sitecore development teams. Developed PowerShell module for performing automated Sitecore security audit and fix functions.
 
@@ -82,9 +82,9 @@ __Sitecore__, Solution Architect
 
 · Permanent · 1 year · On-site · London, United Kingdom
 
-Working in the Technical Services team for Sitecore UK, delivering best practice guidance and professional services to clients and product partners. Assisted sales team with on-site PoC customer engagements and follow up.
+Working in the Technical Services team for Sitecore UK delivering best practice guidance and professional services to a wide range of clients and product partners. Assisted sales team with on-site PoC customer engagements and follow up.
 
-Member of Sitecore's MVC Task Force and contributing author to the Sitecore MVC Contrib project on GitHub. Author of Sitecore.Glimpse and Sitecore.Ship open source projects.
+Active member of internal team supporting Sitecore MVC development with contributions to the Sitecore MVC repositories on GitHub. Author of Sitecore.Glimpse and Sitecore.Ship open source projects.
 
 Delivered SDF and SND Sitecore certification training courses in the UK.
 
