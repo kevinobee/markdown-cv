@@ -71,9 +71,9 @@ Joined Sitecore's Product Department as a backend developer and security advocat
 
 A notable contribution was made in delivering Sitecore Services Client (SSC) which is an ASP.NET Web API integration layer for the Sitecore CMS product and replacement for the insecure Item Web API.
 
-Traveled to Sitecore's Malaysia office to mentor the newly formed Experience Analytics remote team and consult on proposed software architecture designs. Worked with Chief Security Officer to push out security awareness to Sitecore's various development teams.
+Multiple on-site engagements at the Sitecore Malaysia office mentoring the newly formed Experience Analytics team and assisting with software architecture decisions.
 
-Developed PowerShell module for performing automated Sitecore security audit and fix functions.
+Worked with Chief Security Officer to push out security awareness to Sitecore development teams. Developed PowerShell module for performing automated Sitecore security audit and fix functions.
 
 Skills: Sitecore · Application Security · Docker · C# · ASP.NET Web API · Mentor · DevOps
 
